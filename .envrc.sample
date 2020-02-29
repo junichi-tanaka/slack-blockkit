@@ -1,0 +1,3 @@
+SLACK_API_TOKEN=
+SLACK_CHANNEL=#general
+SLACK_BOT_NAME=bot-bot-bot
